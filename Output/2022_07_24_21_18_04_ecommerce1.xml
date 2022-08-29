@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<products>
+  <title>ecommerce1</title>
+  <totalRows>20</totalRows>
+  <rows>
+    <product>
+      <id>1</id>
+      <name>Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops</name>
+      <price>109.95</price>
+      <category>men's clothing</category>
+    </product>
+    <product>
+      <id>2</id>
+      <name>Mens Casual Premium Slim Fit T-Shirts </name>
+      <price>22.3</price>
+      <category>men's clothing</category>
+    </product>
+    <product>
+      <id>3</id>
+      <name>Mens Cotton Jacket</name>
+      <price>55.99</price>
+      <category>men's clothing</category>
+    </product>
+    <product>
+      <id>4</id>
+      <name>Mens Casual Slim Fit</name>
+      <price>15.99</price>
+      <category>men's clothing</category>
+    </product>
+    <product>
+      <id>5</id>
+      <name>John Hardy Women's Legends Naga Gold &amp; Silver Dragon Station Chain Bracelet</name>
+      <price>695</price>
+      <category>jewelery</category>
+    </product>
+    <product>
+      <id>6</id>
+      <name>Solid Gold Petite Micropave </name>
+      <price>168</price>
+      <category>jewelery</category>
+    </product>
+    <product>
+      <id>7</id>
+      <name>White Gold Plated Princess</name>
+      <price>9.99</price>
+      <category>jewelery</category>
+    </product>
+    <product>
+      <id>8</id>
+      <name>Pierced Owl Rose Gold Plated Stainless Steel Double</name>
+      <price>10.99</price>
+      <category>jewelery</category>
+    </product>
+    <product>
+      <id>9</id>
+      <name>WD 2TB Elements Portable External Hard Drive - USB 3.0 </name>
+      <price>64</price>
+      <category>electronics</category>
+    </product>
+    <product>
+      <id>10</id>
+      <name>SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s</name>
+      <price>109</price>
+      <category>electronics</category>
+    </product>
+    <product>
+      <id>11</id>
+      <name>Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5</name>
+      <price>109</price>
+      <category>electronics</category>
+    </product>
+    <product>
+      <id>12</id>
+      <name>WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive</name>
+      <price>114</price>
+      <category>electronics</category>
+    </product>
+    <product>
+      <id>13</id>
+      <name>Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin</name>
+      <price>599</price>
+      <category>electronics</category>
+    </product>
+    <product>
+      <id>14</id>
+      <name>Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) &ndash; Super Ultrawide Screen QLED </name>
+      <price>999.99</price>
+      <category>electronics</category>
+    </product>
+    <product>
+      <id>15</id>
+      <name>BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats</name>
+      <price>56.99</price>
+      <category>women's clothing</category>
+    </product>
+    <product>
+      <id>16</id>
+      <name>Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket</name>
+      <price>29.95</price>
+      <category>women's clothing</category>
+    </product>
+    <product>
+      <id>17</id>
+      <name>Rain Jacket Women Windbreaker Striped Climbing Raincoats</name>
+      <price>39.99</price>
+      <category>women's clothing</category>
+    </product>
+    <product>
+      <id>18</id>
+      <name>MBJ Women's Solid Short Sleeve Boat Neck V </name>
+      <price>9.85</price>
+      <category>women's clothing</category>
+    </product>
+    <product>
+      <id>19</id>
+      <name>Opna Women's Short Sleeve Moisture</name>
+      <price>7.95</price>
+      <category>women's clothing</category>
+    </product>
+    <product>
+      <id>20</id>
+      <name>DANVOUY Womens T Shirt Casual Cotton Short</name>
+      <price>12.99</price>
+      <category>women's clothing</category>
+    </product>
+  </rows>
+</products>

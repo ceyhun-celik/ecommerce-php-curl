@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<products>
+  <title>ecommerce3</title>
+  <totalRows>23</totalRows>
+  <rows>
+    <product>
+      <id>61ab420c0f34753bcedfa787</id>
+      <name>special cotton shirt for men</name>
+      <price>15.00</price>
+      <category>men's fashion</category>
+    </product>
+    <product>
+      <id>61ab42600f34753bcedfa78b</id>
+      <name>high quality men distress skinny blue jeans</name>
+      <price>90.00</price>
+      <category>men's fashion</category>
+    </product>
+    <product>
+      <id>61ab42790f34753bcedfa78f</id>
+      <name>cotton o neck mens clothing t shirts</name>
+      <price>30.00</price>
+      <category>men's fashion</category>
+    </product>
+    <product>
+      <id>61ab42d00f34753bcedfa79e</id>
+      <name>cotton pullover embroidery sweatshirt women</name>
+      <price>100.00</price>
+      <category>women's fashion</category>
+    </product>
+    <product>
+      <id>61ab42e90f34753bcedfa7a2</id>
+      <name>breast button belt sur collar winter coat women</name>
+      <price>120.00</price>
+      <category>women's fashion</category>
+    </product>
+    <product>
+      <id>61ab431c0f34753bcedfa7a6</id>
+      <name>running sneaker</name>
+      <price>200.00</price>
+      <category>bags &amp; shoes</category>
+    </product>
+    <product>
+      <id>61ab43350f34753bcedfa7aa</id>
+      <name>men casual shoes sports running sneakers</name>
+      <price>100.00</price>
+      <category>bags &amp; shoes</category>
+    </product>
+    <product>
+      <id>61ab434b0f34753bcedfa7ae</id>
+      <name>premium leather matt black casual boot</name>
+      <price>250.00</price>
+      <category>bags &amp; shoes</category>
+    </product>
+    <product>
+      <id>61ab44f40f34753bcedfa819</id>
+      <name>waterproof fitness racker sports watch</name>
+      <price>140.00</price>
+      <category>jewlary &amp; watches</category>
+    </product>
+    <product>
+      <id>61ab450a0f34753bcedfa81d</id>
+      <name>bracelet blood pressure sport fitness smartwatch</name>
+      <price>120.00</price>
+      <category>jewlary &amp; watches</category>
+    </product>
+    <product>
+      <id>61ab47110f34753bcedfa83f</id>
+      <name>Sceptre LED  curved 2xHDMI display port monitor</name>
+      <price>149.00</price>
+      <category>computers</category>
+    </product>
+    <product>
+      <id>61ab472c0f34753bcedfa843</id>
+      <name>ASUS Full HD HDMI Sync Eye Care eSports Gaming Monitor</name>
+      <price>159.00</price>
+      <category>computers</category>
+    </product>
+    <product>
+      <id>61ab475a0f34753bcedfa847</id>
+      <name>iphone 13 pro black color 512gb storage</name>
+      <price>999.00</price>
+      <category>phone &amp; tablets</category>
+    </product>
+    <product>
+      <id>61ab47c20f34753bcedfa853</id>
+      <name>Dual 3G Phone Call Octa Core 10 Inch Android Tablet</name>
+      <price>700.00</price>
+      <category>phone &amp; tablets</category>
+    </product>
+    <product>
+      <id>61ab47e70f34753bcedfa857</id>
+      <name>RGB Gaming Chair with Lights and Speakers</name>
+      <price>600.00</price>
+      <category>home &amp; furniture</category>
+    </product>
+    <product>
+      <id>61ab47fd0f34753bcedfa85b</id>
+      <name>Bed Storage Leather Italian Furniture Sofa Luxury</name>
+      <price>750.00</price>
+      <category>home &amp; furniture</category>
+    </product>
+    <product>
+      <id>61ab48350f34753bcedfa862</id>
+      <name>electrical maintenance tools kit boxes with plastic box</name>
+      <price>90.00</price>
+      <category>tools &amp; hardware</category>
+    </product>
+    <product>
+      <id>61ab484d0f34753bcedfa866</id>
+      <name>Drill Tool Set High Quality Powerful Multifunction Portable Drill</name>
+      <price>70.00</price>
+      <category>tools &amp; hardware</category>
+    </product>
+    <product>
+      <id>61ab68a30f34753bcedfa898</id>
+      <name>heart rate monitor gps fitness smartwatch</name>
+      <price>200.00</price>
+      <category>jewlary &amp; watches</category>
+    </product>
+    <product>
+      <id>61ebbfe64efdea94da60a734</id>
+      <name>men Shoes</name>
+      <price>45.00</price>
+      <category>women's fashion</category>
+    </product>
+    <product>
+      <id>61ebc0034efdea57a860a746</id>
+      <name>men Shoes</name>
+      <price>45.00</price>
+      <category>women's fashion</category>
+    </product>
+    <product>
+      <id>61ebc05f4efdea55d360a756</id>
+      <name>men Shoes</name>
+      <price>45.00</price>
+      <category>women's fashion</category>
+    </product>
+    <product>
+      <id>61ebc0644efdea030e60a76a</id>
+      <name>men Shoes</name>
+      <price>45.00</price>
+      <category>women's fashion</category>
+    </product>
+  </rows>
+</products>

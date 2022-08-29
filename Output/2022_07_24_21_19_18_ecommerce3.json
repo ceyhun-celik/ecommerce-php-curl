@@ -1,0 +1,140 @@
+[
+    {
+        "id": "61ab420c0f34753bcedfa787",
+        "name": "special cotton shirt for men",
+        "price": "15.00",
+        "category": "men's fashion"
+    },
+    {
+        "id": "61ab42600f34753bcedfa78b",
+        "name": "high quality men distress skinny blue jeans",
+        "price": "90.00",
+        "category": "men's fashion"
+    },
+    {
+        "id": "61ab42790f34753bcedfa78f",
+        "name": "cotton o neck mens clothing t shirts",
+        "price": "30.00",
+        "category": "men's fashion"
+    },
+    {
+        "id": "61ab42d00f34753bcedfa79e",
+        "name": "cotton pullover embroidery sweatshirt women",
+        "price": "100.00",
+        "category": "women's fashion"
+    },
+    {
+        "id": "61ab42e90f34753bcedfa7a2",
+        "name": "breast button belt sur collar winter coat women",
+        "price": "120.00",
+        "category": "women's fashion"
+    },
+    {
+        "id": "61ab431c0f34753bcedfa7a6",
+        "name": "running sneaker",
+        "price": "200.00",
+        "category": "bags & shoes"
+    },
+    {
+        "id": "61ab43350f34753bcedfa7aa",
+        "name": "men casual shoes sports running sneakers",
+        "price": "100.00",
+        "category": "bags & shoes"
+    },
+    {
+        "id": "61ab434b0f34753bcedfa7ae",
+        "name": "premium leather matt black casual boot",
+        "price": "250.00",
+        "category": "bags & shoes"
+    },
+    {
+        "id": "61ab44f40f34753bcedfa819",
+        "name": "waterproof fitness racker sports watch",
+        "price": "140.00",
+        "category": "jewlary & watches"
+    },
+    {
+        "id": "61ab450a0f34753bcedfa81d",
+        "name": "bracelet blood pressure sport fitness smartwatch",
+        "price": "120.00",
+        "category": "jewlary & watches"
+    },
+    {
+        "id": "61ab47110f34753bcedfa83f",
+        "name": "Sceptre LED  curved 2xHDMI display port monitor",
+        "price": "149.00",
+        "category": "computers"
+    },
+    {
+        "id": "61ab472c0f34753bcedfa843",
+        "name": "ASUS Full HD HDMI Sync Eye Care eSports Gaming Monitor",
+        "price": "159.00",
+        "category": "computers"
+    },
+    {
+        "id": "61ab475a0f34753bcedfa847",
+        "name": "iphone 13 pro black color 512gb storage",
+        "price": "999.00",
+        "category": "phone & tablets"
+    },
+    {
+        "id": "61ab47c20f34753bcedfa853",
+        "name": "Dual 3G Phone Call Octa Core 10 Inch Android Tablet",
+        "price": "700.00",
+        "category": "phone & tablets"
+    },
+    {
+        "id": "61ab47e70f34753bcedfa857",
+        "name": "RGB Gaming Chair with Lights and Speakers",
+        "price": "600.00",
+        "category": "home & furniture"
+    },
+    {
+        "id": "61ab47fd0f34753bcedfa85b",
+        "name": "Bed Storage Leather Italian Furniture Sofa Luxury",
+        "price": "750.00",
+        "category": "home & furniture"
+    },
+    {
+        "id": "61ab48350f34753bcedfa862",
+        "name": "electrical maintenance tools kit boxes with plastic box",
+        "price": "90.00",
+        "category": "tools & hardware"
+    },
+    {
+        "id": "61ab484d0f34753bcedfa866",
+        "name": "Drill Tool Set High Quality Powerful Multifunction Portable Drill",
+        "price": "70.00",
+        "category": "tools & hardware"
+    },
+    {
+        "id": "61ab68a30f34753bcedfa898",
+        "name": "heart rate monitor gps fitness smartwatch",
+        "price": "200.00",
+        "category": "jewlary & watches"
+    },
+    {
+        "id": "61ebbfe64efdea94da60a734",
+        "name": "men Shoes",
+        "price": "45.00",
+        "category": "women's fashion"
+    },
+    {
+        "id": "61ebc0034efdea57a860a746",
+        "name": "men Shoes",
+        "price": "45.00",
+        "category": "women's fashion"
+    },
+    {
+        "id": "61ebc05f4efdea55d360a756",
+        "name": "men Shoes",
+        "price": "45.00",
+        "category": "women's fashion"
+    },
+    {
+        "id": "61ebc0644efdea030e60a76a",
+        "name": "men Shoes",
+        "price": "45.00",
+        "category": "women's fashion"
+    }
+]
